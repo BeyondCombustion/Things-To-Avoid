@@ -2,7 +2,7 @@
 
 TVape and associated companies/brands (TorontoVaporizer.ca, Utillian, Zeus, Zeus Arsenal)
 
-If you need help understanding why, [read this post that was deleted by OP, but has been archived.](https://github.com/Vaporents/LicensedRetailers/blob/main/Deleted_TVape_Reddit_Post.md)
+If you need help understanding why, [read this post that was deleted by OP, but has been archived.](https://github.com/Vaporents/TVape-Zeus-Utillian-Marketing-Manipulation)
 
 
 

@@ -1,3 +1,8 @@
+#### Want to contribute to BeyondCombustion?
+
+[Click here for info on how you can help contribute to BeyondCombustion.net!](https://BeyondCombustion.net/How-To-Contribute/)
+
+---
 
 # Vendors To Avoid
 

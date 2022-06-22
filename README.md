@@ -1,13 +1,13 @@
-# What To Avoid
 
-## Vendors To Avoid
+# Vendors To Avoid
 
 TVape and associated companies/brands (TorontoVaporizer.ca, Utillian, Zeus, Zeus Arsenal)
 
-If you need help understanding why, [read this post that was deleted by OP, but has been archived.](https://github.com/BeyondCombustion/TVape-Zeus-Utillian-Marketing-Manipulation)
+If you need help understanding why, [read this post that was deleted by OP, but has been archived.](https://BeyondCombustion.net/TVape-Zeus-Utillian-Marketing-Manipulation)
 
+---
 
-## Avoid these vapes
+# Avoid these vapes
 
 This part isn't going to cover each specific model and instead will primarily mention brands, despite a brand making one good/working vaporizer they are on this list because of consistent inadequate/unreliable models. 
 
@@ -15,7 +15,7 @@ Questions about these specific vaporizers/brands may be removed. Discussion abou
 
 In general vapes that are on the avoid lists are there because of: 1) poor quality materials 2) an airpath that is not isolated from electronics.  
 
-## Brands to avoid
+# Brands to avoid
 
 - Atmos
 - Airistech
@@ -51,7 +51,7 @@ In general vapes that are on the avoid lists are there because of: 1) poor quali
 - ZEUS/Zeus Arsenal
 
 
-## Vapes to avoid
+# Vapes to avoid
 
 - BC Vaporizer
 - Black Mamba
@@ -75,3 +75,17 @@ In general vapes that are on the avoid lists are there because of: 1) poor quali
 - Yocan iShred
 - Yocan Evolve-D
 - Zolo
+
+---
+
+## Navigation
+
+### [Return to BeyondCombustion.net](https://www.beyondcombustion.net/)
+
+### [Jump to 'The Book' and The 'List'](https://www.beyondcombustion.net/The-Book-fka-The-Consensus/)
+
+### [Review the Glossary](https://BeyondCombustion.net/Glossary/)
+
+### [Go to The Beginners Guide](https://BeyondCombustion.net/Beginners-Start-Here/)
+
+### [Visit BeyondCombustion's Businesses Repository](https://BeyondCombustion.net/Businesses/)
